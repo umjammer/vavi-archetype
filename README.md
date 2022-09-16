@@ -1,3 +1,5 @@
+[![Release](https://jitpack.io/v/umjammer/vavi-archetype.svg)](https://jitpack.io/#umjammer/vavi-archetype)
+
 # vavi-archetype
 
 vavi-archetype is a minimul archetype for maven
