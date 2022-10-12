@@ -1,4 +1,5 @@
 [![Release](https://jitpack.io/v/umjammer/vavi-archetype.svg)](https://jitpack.io/#umjammer/vavi-archetype)
+![Java](https://img.shields.io/badge/Java-8-b07219)
 
 # vavi-archetype
 
