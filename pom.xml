@@ -5,7 +5,7 @@
 
   <groupId>vavi</groupId>
   <artifactId>vavi-archetype</artifactId>
-  <version>0.0.4</version>
+  <version>0.0.5</version>
 
   <name>Archetype - vavi-archetype</name>
   <url>https://github.com/umjammer/vavi-archetype</url>
