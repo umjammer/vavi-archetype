@@ -10,7 +10,7 @@ vavi-archetype is a minimul archetype for maven
 add profile into `~/.m2/settings.xml` ([see](https://maven.apache.org/archetype/maven-archetype-plugin/archetype-repository.html))
 
 ```xml
-     <profile>
+    <profile>
       <id>archetype</id>
       <repositories>
         <repository>
@@ -27,7 +27,7 @@ run w/ profile name
  $ mvn -P archetype archetype:generate \
   -DarchetypeGroupId=vavi              \
   -DarchetypeArtifactId=vavi-archetype \
-  -DarchetypeVersion=0.0.4             \
+  -DarchetypeVersion=0.0.6             \
   -DgroupId=vavi                       \
   -DartifactId=vavi-test-sample1       \
   -Dversion=0.0.1-SNAPSHOT
