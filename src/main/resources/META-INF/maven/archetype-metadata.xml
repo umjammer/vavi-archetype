@@ -14,6 +14,9 @@ name="custom-archetype">
         <requiredProperty key="groupIdToPath">
             <defaultValue>vavi/example</defaultValue>
         </requiredProperty>
+        <requiredProperty key="javaVersion">
+            <defaultValue>8</defaultValue>
+        </requiredProperty>
     </requiredProperties>
 
     <fileSets>
