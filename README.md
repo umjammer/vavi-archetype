@@ -1,5 +1,5 @@
 [![Release](https://jitpack.io/v/umjammer/vavi-archetype.svg)](https://jitpack.io/#umjammer/vavi-archetype)
-![Java](https://img.shields.io/badge/Java-8-b07219)
+![Java](https://img.shields.io/badge/Java-*-b07219)
 
 # vavi-archetype
 
@@ -27,7 +27,7 @@ run w/ profile name
  $ mvn -P archetype archetype:generate \
   -DarchetypeGroupId=vavi              \
   -DarchetypeArtifactId=vavi-archetype \
-  -DarchetypeVersion=0.0.11            \
+  -DarchetypeVersion=0.0.12            \
   -DgroupId=vavi                       \
   -DartifactId=vavi-test-sample1       \
   -Dversion=0.0.1-SNAPSHOT
