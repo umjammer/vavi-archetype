@@ -27,7 +27,7 @@ run w/ profile name
  $ mvn -P archetype archetype:generate \
   -DarchetypeGroupId=vavi              \
   -DarchetypeArtifactId=vavi-archetype \
-  -DarchetypeVersion=0.0.12            \
+  -DarchetypeVersion=0.0.13            \
   -DgroupId=vavi                       \
   -DartifactId=vavi-test-sample1       \
   -Dversion=0.0.1-SNAPSHOT
