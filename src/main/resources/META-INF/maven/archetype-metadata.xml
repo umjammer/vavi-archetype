@@ -15,7 +15,10 @@ name="custom-archetype">
             <defaultValue>vavi/example</defaultValue>
         </requiredProperty>
         <requiredProperty key="javaVersion">
-            <defaultValue>8</defaultValue>
+            <defaultValue>17</defaultValue>
+        </requiredProperty>
+        <requiredProperty key="YEAR">
+            <defaultValue>${year}</defaultValue>
         </requiredProperty>
     </requiredProperties>
 
