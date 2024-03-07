@@ -20,6 +20,9 @@ name="custom-archetype">
         <requiredProperty key="YEAR">
             <defaultValue>${year}</defaultValue>
         </requiredProperty>
+        <requiredProperty key="DATE">
+            <defaultValue>${date}</defaultValue>
+        </requiredProperty>
     </requiredProperties>
 
     <fileSets>
