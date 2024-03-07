@@ -9,9 +9,15 @@ package ${package};
 import org.junit.jupiter.api.Test;
 
 
+/**
+ * TestCase.
+ *
+ * @author <a href="mailto:umjammer@gmail.com">Naohide Sano</a> (nsano)
+ * @version 0.00 ${DATE} nsano initial version <br>
+ */
 @EnabledIf("localPropertiesExists")
 @PropsEntity(url = "file:local.properties")
-class Test1 {
+class TestCase {
 
     static boolean localPropertiesExists() {
         return Files.exists(Paths.get("local.properties"));
