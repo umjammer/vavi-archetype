@@ -39,5 +39,3 @@ class TestCase {
         System.err.println("Hello World!");
     }
 }
-
-/* */
