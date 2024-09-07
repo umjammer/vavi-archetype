@@ -27,7 +27,7 @@ run w/ profile name
  $ mvn -P archetype archetype:generate \
   -DarchetypeGroupId=vavi              \
   -DarchetypeArtifactId=vavi-archetype \
-  -DarchetypeVersion=0.0.17            \
+  -DarchetypeVersion=0.0.18            \
   -DgroupId=vavi                       \
   -DartifactId=vavi-test-sample1       \
   -Dversion=0.0.1-SNAPSHOT
@@ -41,4 +41,4 @@ run w/ profile name
 ## TODO
 
  * archetype2
- * property year
+ * ~~property year~~
