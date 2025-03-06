@@ -6,12 +6,12 @@
 
 # ${artifactId}
 
-## Install
+#[[##]]# Install
 
  * [maven](https://jitpack.io/#umjammer/${artifactId})
 
-## Usage
+#[[##]]# Usage
 
-## References
+#[[##]]# References
 
-## TODO
+#[[##]]# TODO
