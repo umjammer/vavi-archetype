@@ -24,12 +24,12 @@ add profile into `~/.m2/settings.xml` ([see](https://maven.apache.org/archetype/
 run w/ profile name
 
 ```shell
- $ mvn -P archetype archetype:generate \
-  -DarchetypeGroupId=vavi              \
-  -DarchetypeArtifactId=vavi-archetype \
-  -DarchetypeVersion=0.0.18            \
-  -DgroupId=vavi                       \
-  -DartifactId=vavi-test-sample1       \
+ $ mvn -P archetype archetype:generate   \
+  -DarchetypeGroupId=com.github.umjammer \
+  -DarchetypeArtifactId=vavi-archetype   \
+  -DarchetypeVersion=0.0.19              \
+  -DgroupId=vavi                         \
+  -DartifactId=vavi-test-sample1         \
   -Dversion=0.0.1-SNAPSHOT
 ```
 
